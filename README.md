@@ -1,12 +1,12 @@
 # PowerBI_Project
 * Healthcare Provider Analysis:
 * KPI(KEY PERFORMANCE INDEX):
--	Billing Amount
--	Medication Cost
--	Treatment Cost
--	Total Insurance
--	Room Charges
--	Out-of-Pocket
+    -	Billing Amount
+    -	Medication Cost
+    -	Treatment Cost
+    -	Total Insurance
+    -	Room Charges
+    -	Out-of-Pocket
 Calculate the average for each of the KPI’s
 
 ![image](https://github.com/user-attachments/assets/dcc20acd-8b1e-42e2-beac-1a12361f73d9)
