@@ -19,7 +19,7 @@ This dashboard is built to support decision-making in resource allocation, cost 
 
 📌 Tools Used: Power BI, Data Transformation, DAX.
 💡 Takeaways: Simplified data storytelling for actionable insights.
-
+## link: https://github.com/shaktidewan/PowerBI_Project/blob/Healthcare-Provider-Analysis/Health%20care%20Analysis%20Dashboard.pbix
 ![image](https://github.com/user-attachments/assets/dcc20acd-8b1e-42e2-beac-1a12361f73d9)
 
 #Analytical Dashboard of Professional Survey:
